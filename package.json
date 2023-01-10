@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@syncfusion/ej2-react-calendars": "^20.4.42",
     "@syncfusion/ej2-react-grids": "^20.4.42",
     "@syncfusion/ej2-react-richtexteditor": "^20.4.42",
     "@testing-library/jest-dom": "^5.16.5",
